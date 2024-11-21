@@ -1,0 +1,42 @@
+[2024-10-16 20:03:50] Script started
+[2024-10-16 20:03:50] POST request received
+[2024-10-16 20:03:50] Received data: Array
+(
+    [nama] => Speaker
+    [building] => 2
+    [jumlah] => 3
+    [asset_condition] => Rusak
+)
+
+[2024-10-16 20:03:50] Processed input - nama: Speaker, building: 2, jumlah: 3, asset_condition: Rusak
+[2024-10-16 20:03:50] Database connection successful
+[2024-10-16 20:03:50] Inserting new asset...
+[2024-10-16 20:03:50] New asset inserted successfully. ID: 10
+[2024-10-16 20:05:04] Script started
+[2024-10-16 20:05:04] POST request received
+[2024-10-16 20:05:04] Received data: Array
+(
+    [nama] => Speaker
+    [building] => 1
+    [jumlah] => 4
+    [asset_condition] => Rusak
+)
+
+[2024-10-16 20:05:04] Processed input - nama: Speaker, building: 1, jumlah: 4, asset_condition: Rusak
+[2024-10-16 20:05:04] Database connection successful
+[2024-10-16 20:05:04] Inserting new asset...
+[2024-10-16 20:05:04] New asset inserted successfully. ID: 11
+[2024-10-17 09:09:31] Script started
+[2024-10-17 09:09:31] POST request received
+[2024-10-17 09:09:31] Received data: Array
+(
+    [nama] => p
+    [building] => 4
+    [jumlah] => 21
+    [asset_condition] => Aktif
+)
+
+[2024-10-17 09:09:31] Processed input - nama: p, building: 4, jumlah: 21, asset_condition: Aktif
+[2024-10-17 09:09:31] Database connection successful
+[2024-10-17 09:09:31] Inserting new asset...
+[2024-10-17 09:09:31] New asset inserted successfully. ID: 12
